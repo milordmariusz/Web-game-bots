@@ -53,7 +53,7 @@ def main():
         if isinstance(segment, Arc):
             arc_length += segment.length()
 
-    angle = int((arc_length * 360)/(2*pi*20))
+    angle = round((arc_length * 360)/(2*pi*20))
 
     print(f"Angle: {angle}")
 
