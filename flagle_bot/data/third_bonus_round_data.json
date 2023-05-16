@@ -1,0 +1,2135 @@
+[
+    {
+        "country": "CN",
+        "currency_code": "CNY",
+        "currency_name": "Yuan Renminbi",
+        "population": "1,439,323,776",
+        "population_choices": ["200 million - 300 million", "300 million - 600 million", "600 million - 1 billion", "Over 1 billion"],
+        "population_answer": "Over 1 billion",
+        "currency_choices": ["Real", "Lempira", "Dollar", "Yuan Renminbi"]
+    },
+    {   
+        "country": "IN",
+        "currency_code": "INR",
+        "currency_name": "Rupee",
+        "population": "1,380,004,385",
+        "population_choices": ["200 million - 300 million", "300 million - 600 million", "600 million - 1 billion", "Over 1 billion"],
+        "population_answer": "Over 1 billion",
+        "currency_choices": ["Sol", "Rupee", "Kyat", "Dollar"]
+    },
+    {
+        "country": "US",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "331,002,651",
+        "population_choices": ["100 million - 200 million", "200 million - 400 million", "500 million - 999 million", "Over 1 Billion"],
+        "population_answer": "200 million - 400 million",
+        "currency_choices": ["Denar", "Euro", "Dollar", "Franc"]
+    },
+    {
+        "country": "ID",
+        "currency_code": "IDR",
+        "currency_name": "Rupiah",
+        "population": "273,523,615",
+        "population_choices": ["100 million - 200 million", "200 million - 300 million", "500 million - 999 million", "Over 1 Billion"],
+        "population_answer": "200 million - 300 million",
+        "currency_choices": ["Pound", "Rupee", "Rupiah", "Euro"]
+    },
+    {
+        "country": "PK",
+        "currency_code": "PKR",
+        "currency_name": "Rupee",
+        "population": "220,892,340",
+        "population_choices": ["100 million - 200 million", "200 million - 300 million", "500 million - 999 million", "Over 1 Billion"],
+        "population_answer": "200 million - 300 million",
+        "currency_choices": ["Lempira", "Rupee", "Loti", "Rupiah"]
+    },
+    {
+        "country": "CC",
+        "currency_code": "AUD",
+        "currency_name": "Dollar",
+        "population": "596",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dollar", "Dinar", "Peso", "Euro"]
+    },
+    {
+        "country": "BR",
+        "currency_code": "BRL",
+        "currency_name": "Real",
+        "population": "212,559,417",
+        "population_choices": ["100 million - 200 million", "200 million - 300 million", "500 million - 999 million", "Over 1 Billion"],
+        "population_answer": "200 million - 300 million",
+        "currency_choices": ["Lek", "Ouguiya", "Yuan Renminbi", "Real"]
+    },
+    {
+        "country": "NG",
+        "currency_code": "NGN",
+        "currency_name": "Naira",
+        "population": "206,139,589",
+        "population_choices": ["100 million - 200 million", "200 million - 300 million", "500 million - 999 million", "Over 1 Billion"],
+        "population_answer": "200 million - 300 million",
+        "currency_choices": ["Loti", "Naira", "Dollar", "Shilling"]
+    },
+    {
+        "country": "BD",
+        "currency_code": "BDT",
+        "currency_name": "Taka",
+        "population": "164,689,383",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Rial", "Leu", "Pa'anga", "Taka"]
+    },
+    {
+        "country": "RU",
+        "currency_code": "RUB",
+        "currency_name": "Ruble",
+        "population": "145,934,462",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Ruble", "Kyat", "Shilling", "Dollar"]
+    },
+    {
+        "country": "MX",
+        "currency_code": "MXN",
+        "currency_name": "Peso",
+        "population": "128,932,753",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Som", "Somoni", "Shilling", "Peso"]
+    },
+    {
+        "country": "JP",
+        "currency_code": "JPY",
+        "currency_name": "Yen",
+        "population": "126,476,461",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Rupee", "Lilangeni", "Yen", "Zloty"]
+    },
+    {
+        "country": "ET",
+        "currency_code": "ETB",
+        "currency_name": "Birr",
+        "population": "114,963,588",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Birr", "Dalasi", "Gourde", "Rupee"]
+    },
+    {
+        "country": "VN",
+        "currency_code": "VND",
+        "currency_name": "Dong",
+        "population": "97,338,579",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 40 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Euro", "Franc", "Krona", "Dong"]
+    },
+    {
+        "country": "CD",
+        "currency_code": "CDF",
+        "currency_name": "Franc",
+        "population": "89,561,403",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 75 million", "75+ million"],
+        "population_answer": "75+ million",
+        "currency_choices": ["Guilder", "Franc", "Kina", "Dirham"]
+    },
+    {
+        "country": "TR",
+        "currency_code": "TRY",
+        "currency_name": "Lira",
+        "population": "84,339,067",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 75 million", "75+ million"],
+        "population_answer": "75+ million",
+        "currency_choices": ["Hryvnia", "Lira", "Peso", "Cedi"]
+    },
+    {
+        "country": "IR",
+        "currency_code": "IRR",
+        "currency_name": "Rial",
+        "population": "83,992,949",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 75 million", "75+ million"],
+        "population_answer": "75+ million",
+        "currency_choices": ["Pound", "Dollar", "Rial", "Shilling"]
+    },
+    {
+        "country": "DE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "83,783,942",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 75 million", "75+ million"],
+        "population_answer": "75+ million",
+        "currency_choices": ["Denar", "Shilling", "Rial", "Euro"]
+    },
+    {
+        "country": "TH",
+        "currency_code": "THB",
+        "currency_name": "Baht",
+        "population": "69,799,978",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 75 million", "75+ million"],
+        "population_answer": "20 - 75 million",
+        "currency_choices": ["Franc", "Peso", "Lek", "Baht"]
+    },
+    {
+        "country": "GB",
+        "currency_code": "GBP",
+        "currency_name": "Pound",
+        "population": "67,886,011",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 50 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Birr", "Shilling", "Rial", "Pound"]
+    },
+    {
+        "country": "FR",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "65,273,511",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 50 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Peso", "Dollar", "Denar", "Euro"]
+    },
+    {
+        "country": "IT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "60,461,826",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 50 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Euro", "Dollar", "Kwanza", "Franc"]
+    },
+    {
+        "country": "TZ",
+        "currency_code": "TZS",
+        "currency_name": "Shilling",
+        "population": "59,734,218",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 50 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Franc", "Shilling", "Euro", "Lira"]
+    },
+    {
+        "country": "ZA",
+        "currency_code": "ZAR",
+        "currency_name": "Rand",
+        "population": "59,308,690",
+        "population_choices": ["10 - 20 million", "20 - 40 million", "40 - 75 million", "75+ million"],
+        "population_answer": "40 - 75 million",
+        "currency_choices": ["Rand", "Leone", "Pound", "Kwacha"]
+    },
+    {
+        "country": "MM",
+        "currency_code": "MMK",
+        "currency_name": "Kyat",
+        "population": "54,409,800",
+        "population_choices": ["10 - 20 million", "20 - 40 million", "40 - 75 million", "75+ million"],
+        "population_answer": "40 - 75 million",
+        "currency_choices": ["Kyat", "Dinar", "Shilling", "Franc"]
+    },
+    {
+        "country": "KE",
+        "currency_code": "KES",
+        "currency_name": "Shilling",
+        "population": "53,771,296",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 50 million", "50+ million"],
+        "population_answer": "50+ million",
+        "currency_choices": ["Ruble", "Franc", "Leu", "Shilling"]
+    },
+    {
+        "country": "KR",
+        "currency_code": "KRW",
+        "currency_name": "Won",
+        "population": "51,269,185",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "30+ million",
+        "currency_choices": ["Real", "Dinar", "Krona", "Won"]
+    },
+    {
+        "country": "CO",
+        "currency_code": "COP",
+        "currency_name": "Peso",
+        "population": "50,882,891",
+        "population_choices": ["2 - 5 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "30+ million",
+        "currency_choices": ["Naira", "Peso", "Colon", "Quetzal"]
+    },
+    {
+        "country": "ES",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "46,754,778",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Dinar", "Vatu", "Euro", "Dirham"]
+    },
+    {
+        "country": "UG",
+        "currency_code": "UGX",
+        "currency_name": "Shilling",
+        "population": "45,741,007",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Franc", "Dollar", "Shilling", "Euro"]
+    },
+    {
+        "country": "AR",
+        "currency_code": "ARS",
+        "currency_name": "Peso",
+        "population": "45,195,774",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Peso", "Dollar", "Dirham", "Dinar"]
+    },
+    {
+        "country": "DZ",
+        "currency_code": "DZD",
+        "currency_name": "Dinar",
+        "population": "43,851,044",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Dinar", "Franc", "Ouguiya", "Dollar"]
+    },
+    {
+        "country": "SD",
+        "currency_code": "SDG",
+        "currency_name": "Pound",
+        "population": "43,849,260",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Ringgit", "Dollar", "Leone", "Pound"]
+    },
+    {
+        "country": "IQ",
+        "currency_code": "IQD",
+        "currency_name": "Dinar",
+        "population": "40,222,493",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Rupee", "Dollar", "Peso", "Dinar"]
+    },
+    {
+        "country": "PL",
+        "currency_code": "PLN",
+        "currency_name": "Zloty",
+        "population": "37,846,611",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Peso", "Zloty", "Vatu", "Bolivar Soberano"]
+    },
+    {
+        "country": "CA",
+        "currency_code": "CAD",
+        "currency_name": "Dollar",
+        "population": "37,742,154",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Taka", "Guarani", "Rial", "Dollar"]
+    },
+    {
+        "country": "MA",
+        "currency_code": "MAD",
+        "currency_name": "Dirham",
+        "population": "36,910,560",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Peso", "Franc", "Rial", "Dirham"]
+    },
+    {
+        "country": "SA",
+        "currency_code": "SAR",
+        "currency_name": "Rial",
+        "population": "34,813,871",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Euro", "Rial", "Dollar", "Dinar"]
+    },
+    {
+        "country": "UZ",
+        "currency_code": "UZS",
+        "currency_name": "Som",
+        "population": "33,469,203",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Som", "Shilling", "Rial", "Rufiyaa"]
+    },
+    {
+        "country": "PE",
+        "currency_code": "PEN",
+        "currency_name": "Sol",
+        "population": "32,971,854",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Rupee", "Sol", "Dram", "Rial"]
+    },
+    {
+        "country": "AO",
+        "currency_code": "AOA",
+        "currency_name": "Kwanza",
+        "population": "32,866,272",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Tugrik", "Kwanza", "Real", "Dinar"]
+    },
+    {
+        "country": "MY",
+        "currency_code": "MYR",
+        "currency_name": "Ringgit",
+        "population": "32,365,999",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Ringgit", "Kina", "Pound", "Tenge"]
+    },
+    {
+        "country": "MZ",
+        "currency_code": "MZN",
+        "currency_name": "Metical",
+        "population": "31,255,435",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Dollar", "Som", "Metical", "Pula"]
+    },
+    {
+        "country": "GH",
+        "currency_code": "GHS",
+        "currency_name": "Cedi",
+        "population": "31,072,940",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Kyat", "Peso", "Dinar", "Cedi"]
+    },
+    {
+        "country": "YE",
+        "currency_code": "YER",
+        "currency_name": "Rial",
+        "population": "29,825,964",
+        "population_choices": ["< 10 million", "10 - 20 million", "20 - 40 million", "60 - 80 million"],
+        "population_answer": "20 - 40 million",
+        "currency_choices": ["Koruna", "Gourde", "Rial", "Dram"]
+    },
+    {
+        "country": "NP",
+        "currency_code": "NPR",
+        "currency_name": "Rupee",
+        "population": "29,136,808",
+        "population_choices": ["< 10 million", "10 - 20 million", "20 - 40 million", "60 - 80 million"],
+        "population_answer": "20 - 40 million",
+        "currency_choices": ["Peso", "Franc", "Shilling", "Rupee"]
+    },
+    {
+        "country": "VE",
+        "currency_code": "VES",
+        "currency_name": "Bolivar Soberano",
+        "population": "28,435,940",
+        "population_choices": ["< 10 million", "10 - 20 million", "20 - 40 million", "60 - 80 million"],
+        "population_answer": "20 - 40 million",
+        "currency_choices": ["Bolivar Soberano", "Franc", "Loti", "Pound"]
+    },
+    {
+        "country": "MG",
+        "currency_code": "MGA",
+        "currency_name": "Ariary",
+        "population": "27,691,018",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Ariary", "Lira", "Pound", "Dollar"]
+    },
+    {
+        "country": "CM",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "26,545,863",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Birr", "Manat", "Franc", "Lev"]
+    },
+    {
+        "country": "CI",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "26,378,274",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Dinar", "Zloty", "Rial", "Franc"]
+    },
+    {
+        "country": "KP",
+        "currency_code": "KPW",
+        "currency_name": "Won",
+        "population": "25,778,816",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Peso", "Won", "Naira", "Leu"]
+    },
+    {
+        "country": "AU",
+        "currency_code": "AUD",
+        "currency_name": "Dollar",
+        "population": "25,499,884",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Dollar", "Metical", "Euro", "Pound"]
+    },
+    {
+        "country": "NE",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "24,206,644",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Dollar", "Euro", "Franc", "Naira"]
+    },
+    {
+        "country": "TW",
+        "currency_code": "TWD",
+        "currency_name": "Dollar",
+        "population": "23,816,775",
+        "population_choices": ["< 5 million", "5 - 10 million", "20 - 30 million", "40+ million"],
+        "population_answer": "20 - 30 million",
+        "currency_choices": ["Dollar", "Krona", "Peso", "Franc"]
+    },
+    {
+        "country": "LK",
+        "currency_code": "LKR",
+        "currency_name": "Rupee",
+        "population": "21,413,249",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Krone", "Lempira", "Forint", "Rupee"]
+    },
+    {
+        "country": "BF",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "20,903,273",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Real", "Pound", "Franc", "Bolivar Soberano"]
+    },
+    {
+        "country": "ML",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "20,250,833",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Boliviano", "Won", "Franc", "Kina"]
+    },
+    {
+        "country": "RO",
+        "currency_code": "RON",
+        "currency_name": "Leu",
+        "population": "19,237,691",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Pa'anga", "Dram", "Leu", "Peso"]
+    },
+    {
+        "country": "MW",
+        "currency_code": "MWK",
+        "currency_name": "Kwacha",
+        "population": "19,129,952",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Franc", "Kwacha", "Shilling", "Krone"]
+    },
+    {
+        "country": "CL",
+        "currency_code": "CLP",
+        "currency_name": "Peso",
+        "population": "19,116,201",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Peso", "Dollar", "Franc", "Guarani"]
+    },
+    {
+        "country": "KZ",
+        "currency_code": "KZT",
+        "currency_name": "Tenge",
+        "population": "18,776,707",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Shilling", "Real", "Dollar", "Tenge"]
+    },
+    {
+        "country": "ZM",
+        "currency_code": "ZMW",
+        "currency_name": "Kwacha",
+        "population": "18,383,955",
+        "population_choices": ["2 - 4 million", "5 - 10 million", "15 - 30 million", "30+ million"],
+        "population_answer": "15 - 30 million",
+        "currency_choices": ["Colon", "Rufiyaa", "Kwacha", "Peso"]
+    },
+    {
+        "country": "GT",
+        "currency_code": "GTQ",
+        "currency_name": "Quetzal",
+        "population": "17,915,568",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Quetzal", "Rupee", "Yuan Renminbi", "Krona"]
+    },
+    {
+        "country": "EC",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "17,643,054",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Dirham", "Franc", "Dollar", "Euro"]
+    },
+    {
+        "country": "SY",
+        "currency_code": "SYP",
+        "currency_name": "Pound",
+        "population": "17,500,658",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Pound", "Rial", "Dollar", "Euro"]
+    },
+    {
+        "country": "NL",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "17,134,872",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Euro", "Kwanza", "Som", "Dollar"]
+    },
+    {
+        "country": "SN",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "16,743,927",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Manat", "Euro", "Krone", "Franc"]
+    },
+    {
+        "country": "KH",
+        "currency_code": "KHR",
+        "currency_name": "Riels",
+        "population": "16,718,965",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Won", "Riels", "Ngultrum", "Pound"]
+    },
+    {
+        "country": "TD",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "16,425,864",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Franc", "Euro", "Dollar", "Krone"]
+    },
+    {
+        "country": "SO",
+        "currency_code": "SOS",
+        "currency_name": "Shilling",
+        "population": "15,893,222",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Leone", "Dollar", "Pound", "Shilling"]
+    },
+    {
+        "country": "ZW",
+        "currency_code": "ZWL",
+        "currency_name": "Dollar",
+        "population": "14,862,924",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Rupee", "Gourde", "Euro", "Dollar"]
+    },
+    {
+        "country": "GN",
+        "currency_code": "GNF",
+        "currency_name": "Franc",
+        "population": "13,132,795",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Euro", "Shilling", "Franc", "Dollar"]
+    },
+    {
+        "country": "RW",
+        "currency_code": "RWF",
+        "currency_name": "Franc",
+        "population": "12,952,218",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Franc", "Leu", "Dinar", "Dollar"]
+    },
+    {
+        "country": "BI",
+        "currency_code": "BIF",
+        "currency_name": "Franc",
+        "population": "11,890,784",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Kyat", "Pound", "Dong", "Franc"]
+    },
+    {
+        "country": "TN",
+        "currency_code": "TND",
+        "currency_name": "Dinar",
+        "population": "11,818,619",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Dinar", "Pula", "Kyat", "Vatu"]
+    },
+    {
+        "country": "BO",
+        "currency_code": "BOB",
+        "currency_name": "Boliviano",
+        "population": "11,673,021",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Pound", "Rupee", "Boliviano", "Pataca"]
+    },
+    {
+        "country": "BE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "11,589,623",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Ringgit", "Somoni", "Franc", "Euro"]
+    },
+    {
+        "country": "HT",
+        "currency_code": "HTG",
+        "currency_name": "Gourde",
+        "population": "11,402,528",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Gourde", "Metical", "Dollar", "Dong"]
+    },
+    {
+        "country": "CU",
+        "currency_code": "CUP",
+        "currency_name": "Peso",
+        "population": "11,326,616",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Peso", "Dollar", "Ruble", "Lempira"]
+    },
+    {
+        "country": "SS",
+        "currency_code": "SSP",
+        "currency_name": "Pound",
+        "population": "11,193,725",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Kwacha", "Pound", "Dollar", "Krone"]
+    },
+    {
+        "country": "DO",
+        "currency_code": "DOP",
+        "currency_name": "Peso",
+        "population": "10,847,910",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Som", "Franc", "Tenge", "Peso"]
+    },
+    {
+        "country": "CZ",
+        "currency_code": "CZK",
+        "currency_name": "Koruna",
+        "population": "10,708,981",
+        "population_choices": ["5 - 15 million", "15 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "5 - 15 million",
+        "currency_choices": ["Koruna", "Peso", "Rupee", "Vatu"]
+    },
+    {
+        "country": "PT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "10,196,709",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dollar", "Vatu", "Euro", "Rand"]
+    },
+    {
+        "country": "AZ",
+        "currency_code": "AZN",
+        "currency_name": "Manat",
+        "population": "10,139,177",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Shilling", "Manat", "Guilder", "Balboa"]
+    },
+    {
+        "country": "SE",
+        "currency_code": "SEK",
+        "currency_name": "Krona",
+        "population": "10,099,265",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dinar", "Krona", "Lilangeni", "Dram"]
+    },
+    {
+        "country": "AE",
+        "currency_code": "AED",
+        "currency_name": "Dirham",
+        "population": "9,890,402",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dirham", "Guarani", "Pound", "Dollar"]
+    },
+    {
+        "country": "HU",
+        "currency_code": "HUF",
+        "currency_name": "Forint",
+        "population": "9,660,351",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Colon", "Forint", "Pataca", "Marka"]
+    },
+    {
+        "country": "TJ",
+        "currency_code": "TJS",
+        "currency_name": "Somoni",
+        "population": "9,537,645",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Somoni", "Won", "Cordoba", "Dollar"]
+    },
+    {
+        "country": "BY",
+        "currency_code": "BYN",
+        "currency_name": "Belarusian ruble",
+        "population": "9,449,323",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Guilder", "Belarusian ruble", "Ariary", "Kyat"]
+    },
+    {
+        "country": "AT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "9,006,398",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Euro", "Dollar", "Dong", "Peso"]
+    },
+    {
+        "country": "PG",
+        "currency_code": "PGK",
+        "currency_name": "Kina",
+        "population": "8,947,024",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dollar", "Dinar", "Kina", "Franc"]
+    },
+    {
+        "country": "RS",
+        "currency_code": "RSD",
+        "currency_name": "Dinar",
+        "population": "8,737,371",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dinar", "Ouguiya", "Lev", "Krona"]
+    },
+    {
+        "country": "IL",
+        "currency_code": "ILS",
+        "currency_name": "Shekel",
+        "population": "8,655,535",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Shekel", "Peso", "Dollar", "Krona"]
+    },
+    {
+        "country": "CH",
+        "currency_code": "CHF",
+        "currency_name": "Franc",
+        "population": "8,654,622",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dollar", "Krona", "Shilling", "Franc"]
+    },
+    {
+        "country": "SL",
+        "currency_code": "SLL",
+        "currency_name": "Leone",
+        "population": "7,976,983",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Pound", "Franc", "Leone", "Peso"]
+    },
+    {
+        "country": "HK",
+        "currency_code": "HKD",
+        "currency_name": "Dollar",
+        "population": "7,496,981",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Rupee", "Dollar", "Som", "Tala"]
+    },
+    {
+        "country": "LA",
+        "currency_code": "LAK",
+        "currency_name": "Kip",
+        "population": "7,275,560",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Sol", "Dram", "Rial", "Kip"]
+    },
+    {
+        "country": "PY",
+        "currency_code": "PYG",
+        "currency_name": "Guarani",
+        "population": "7,132,538",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Metical", "Franc", "Dobra", "Guarani"]
+    },
+    {
+        "country": "BG",
+        "currency_code": "BGN",
+        "currency_name": "Lev",
+        "population": "6,948,445",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Pound", "Dollar", "Escudo", "Lev"]
+    },
+    {
+        "country": "LB",
+        "currency_code": "LBP",
+        "currency_name": "Pound",
+        "population": "6,825,445",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dobra", "Rupee", "Pound", "Peso"]
+    },
+    {
+        "country": "NI",
+        "currency_code": "NIO",
+        "currency_name": "Cordoba",
+        "population": "6,624,554",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Cordoba", "Pound", "Rupee", "Lari"]
+    },
+    {
+        "country": "KG",
+        "currency_code": "KGS",
+        "currency_name": "Som",
+        "population": "6,524,195",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dollar", "Hryvnia", "Som", "Leu"]
+    },
+    {
+        "country": "GS",
+        "currency_code": "NON",
+        "currency_name": "None",
+        "population": "30",
+        "population_choices": ["< 50 Thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 Thousand",
+        "currency_choices": ["Franc", "Dollar", "None", "Rupiah"]
+    },
+    {
+        "country": "SV",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "6,486,205",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Bolivar Soberano", "Peso", "Dollar", "Manat"]
+    },
+    {
+        "country": "TM",
+        "currency_code": "TMT",
+        "currency_name": "Manat",
+        "population": "6,031,200",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Franc", "Leone", "Balboa", "Manat"]
+    },
+    {
+        "country": "SG",
+        "currency_code": "SGD",
+        "currency_name": "Dollar",
+        "population": "5,850,342",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dollar", "Yen", "Rand", "Peso"]
+    },
+    {
+        "country": "DK",
+        "currency_code": "DKK",
+        "currency_name": "Krone",
+        "population": "5,792,202",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Pound", "Naira", "Krona", "Krone"]
+    },
+    {
+        "country": "FI",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "5,540,720",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dinar", "Dollar", "Euro", "Tala"]
+    },
+    {
+        "country": "CG",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "5,518,087",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Franc", "Guarani", "Bolivar Soberano", "Tugrik"]
+    },
+    {
+        "country": "NO",
+        "currency_code": "NOK",
+        "currency_name": "Krone",
+        "population": "5,421,241",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Rand", "Tugrik", "Som", "Krone"]
+    },
+    {
+        "country": "PS",
+        "currency_code": "ILS",
+        "currency_name": "Shekel",
+        "population": "5,101,414",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Zloty", "Pound", "Peso", "Shekel"]
+    },
+    {
+        "country": "CR",
+        "currency_code": "CRC",
+        "currency_name": "Colon",
+        "population": "5,094,118",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Colon", "Franc", "Rupiah", "Lira"]
+    },
+    {
+        "country": "IE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "4,937,786",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Euro", "Peso", "Guilder", "Ouguiya"]
+    },
+    {
+        "country": "CF",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "4,829,767",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Rial", "Zloty", "Dollar", "Franc"]
+    },
+    {
+        "country": "NZ",
+        "currency_code": "NZD",
+        "currency_name": "Dollar",
+        "population": "4,822,233",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Dollar", "Euro", "Pound", "Somoni"]
+    },
+    {
+        "country": "MR",
+        "currency_code": "MRU",
+        "currency_name": "Ouguiya",
+        "population": "4,649,658",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Euro", "Dollar", "Ouguiya", "Quetzal"]
+    },
+    {
+        "country": "PA",
+        "currency_code": "PAB",
+        "currency_name": "Balboa",
+        "population": "4,314,767",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Franc", "Dollar", "Peso", "Balboa"]
+    },
+    {
+        "country": "KW",
+        "currency_code": "KWD",
+        "currency_name": "Dinar",
+        "population": "4,270,571",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Yen", "Rupee", "Dinar", "Kuna"]
+    },
+    {
+        "country": "HR",
+        "currency_code": "HRK",
+        "currency_name": "Kuna",
+        "population": "4,105,267",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Kuna", "Dinar", "Kwanza", "Peso"]
+    },
+    {
+        "country": "MD",
+        "currency_code": "MDL",
+        "currency_name": "Leu",
+        "population": "4,033,963",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Dollar", "Leu", "Riels", "Ngultrum"]
+    },
+    {
+        "country": "GE",
+        "currency_code": "GEL",
+        "currency_name": "Lari",
+        "population": "3,989,167",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Lari", "Franc", "Dram", "Somoni"]
+    },
+    {
+        "country": "ER",
+        "currency_code": "ERN",
+        "currency_name": "Nakfa",
+        "population": "3,546,421",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Somoni", "Hryvnia", "Shilling", "Nakfa"]
+    },
+    {
+        "country": "UY",
+        "currency_code": "UYU",
+        "currency_name": "Peso",
+        "population": "3,473,730",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Dinar", "Dollar", "Rial", "Peso"]
+    },
+    {
+        "country": "BA",
+        "currency_code": "BAM",
+        "currency_name": "Marka",
+        "population": "3,280,819",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "3 - 5 million",
+        "currency_choices": ["Rupee", "Marka", "Leu", "Rial"]
+    },
+    {
+        "country": "MN",
+        "currency_code": "MNT",
+        "currency_name": "Tugrik",
+        "population": "3,278,290",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "3 - 5 million",
+        "currency_choices": ["Rial", "Hryvnia", "Krona", "Tugrik"]
+    },
+    {
+        "country": "AM",
+        "currency_code": "AMD",
+        "currency_name": "Dram",
+        "population": "2,963,243",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Dram", "Franc", "Guarani", "Peso"]
+    },
+    {
+        "country": "QA",
+        "currency_code": "QAR",
+        "currency_name": "Rial",
+        "population": "2,881,053",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Escudo", "Guarani", "Rial", "Lilangeni"]
+    },
+    {
+        "country": "AL",
+        "currency_code": "ALL",
+        "currency_name": "Lek",
+        "population": "2,877,797",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Pound", "Ariary", "Ngultrum", "Lek"]
+    },
+    {
+        "country": "PR",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "2,860,853",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Ouguiya", "Pound", "Ngultrum", "Dollar"]
+    },
+    {
+        "country": "LT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "2,722,289",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Dollar", "Euro", "Rupee", "Zloty"]
+    },
+    {
+        "country": "GM",
+        "currency_code": "GMD",
+        "currency_name": "Dalasi",
+        "population": "2,416,668",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Tala", "Belarusian ruble", "Rupee", "Dalasi"]
+    },
+    {
+        "country": "GA",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "2,225,734",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Pound", "Franc", "Rial", "Dollar"]
+    },
+    {
+        "country": "LS",
+        "currency_code": "LSL",
+        "currency_name": "Loti",
+        "population": "2,142,249",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Dollar", "Loti", "Pound", "Lilangeni"]
+    },
+    {
+        "country": "MK",
+        "currency_code": "MKD",
+        "currency_name": "Denar",
+        "population": "2,083,374",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 1.5 million", "1.5 million - 2.5 million"],
+        "population_answer": "1.5 million - 2.5 million",
+        "currency_choices": ["Denar", "Rupee", "Won", "Shilling"]
+    },
+    {
+        "country": "SI",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "2,078,938",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 1.5 million", "1.5 million - 2.5 million"],
+        "population_answer": "1.5 million - 2.5 million",
+        "currency_choices": ["Rupee", "Shilling", "Dollar", "Euro"]
+    },
+    {
+        "country": "GW",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "1,968,001",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 1.5 million", "1.5 million - 2.5 million"],
+        "population_answer": "1.5 million - 2.5 million",
+        "currency_choices": ["Ngultrum", "Dobra", "Dram", "Franc"]
+    },
+    {
+        "country": "LV",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "1,886,198",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 1.5 million", "1.5 million - 2.5 million"],
+        "population_answer": "1.5 million - 2.5 million",
+        "currency_choices": ["Euro", "Yuan Renminbi", "Franc", "Pound"]
+    },
+    {
+        "country": "BH",
+        "currency_code": "BHD",
+        "currency_name": "Dinar",
+        "population": "1,701,575",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Dinar", "Pound", "Yen", "Dobra"]
+    },
+    {
+        "country": "GQ",
+        "currency_code": "XAF",
+        "currency_name": "Franc",
+        "population": "1,402,985",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Dollar", "Rupiah", "Nakfa", "Franc"]
+    },
+    {
+        "country": "EE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "1,326,535",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Ariary", "Dollar", "Vatu", "Euro"]
+    },
+    {
+        "country": "TL",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "1,318,445",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Dollar", "Lek", "Guilder", "Ngultrum"]
+    },
+    {
+        "country": "MU",
+        "currency_code": "MUR",
+        "currency_name": "Rupee",
+        "population": "1,271,768",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Rupee", "Boliviano", "Lira", "Dinar"]
+    },
+    {
+        "country": "SZ",
+        "currency_code": "SZL",
+        "currency_name": "Lilangeni",
+        "population": "1,160,164",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Dirham", "Cedi", "Dollar", "Lilangeni"]
+    },
+    {
+        "country": "DJ",
+        "currency_code": "DJF",
+        "currency_name": "Franc",
+        "population": "988,000",
+        "population_choices": ["< 250 thousand", "250 - 500 thousand", "500 - 750 thousand", "750k - 1 million"],
+        "population_answer": "750k - 1 million",
+        "currency_choices": ["Dirham", "Kuna", "Franc", "Zloty"]
+    },
+    {
+        "country": "RE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "895,312",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Franc", "Euro", "Pa'anga", "Rand"]
+    },
+    {
+        "country": "KM",
+        "currency_code": "KMF",
+        "currency_name": "Franc",
+        "population": "869,601",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Franc", "Pound", "Kip", "Dollar"]
+    },
+    {
+        "country": "GY",
+        "currency_code": "GYD",
+        "currency_name": "Dollar",
+        "population": "786,552",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Lev", "Shilling", "Rupee", "Dollar"]
+    },
+    {
+        "country": "BT",
+        "currency_code": "BTN",
+        "currency_name": "Ngultrum",
+        "population": "771,608",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Loti", "Ngultrum", "Rial", "Shilling"]
+    },
+    {
+        "country": "SB",
+        "currency_code": "SBD",
+        "currency_name": "Dollar",
+        "population": "686,884",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Dinar", "Boliviano", "Leu"]
+    },
+    {
+        "country": "MO",
+        "currency_code": "MOP",
+        "currency_name": "Pataca",
+        "population": "649,335",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Pound", "Pa'anga", "Franc", "Pataca"]
+    },
+    {
+        "country": "ME",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "628,066",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Rial", "Yen", "Franc", "Euro"]
+    },
+    {
+        "country": "LU",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "625,978",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Rupee", "Pa'anga", "Dollar", "Euro"]
+    },
+    {
+        "country": "EH",
+        "currency_code": "MAD",
+        "currency_name": "Dirham",
+        "population": "597,339",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Zloty", "Dirham", "Franc", "Dollar"]
+    },
+    {
+        "country": "MV",
+        "currency_code": "MVR",
+        "currency_name": "Rufiyaa",
+        "population": "540,544",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Dirham", "Franc", "Dollar", "Rufiyaa"]
+    },
+    {
+        "country": "MT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "441,543",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Rupee", "Gourde", "Krona", "Euro"]
+    },
+    {
+        "country": "GP",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "400,124",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Euro", "Vatu", "Dollar", "Kina"]
+    },
+    {
+        "country": "BZ",
+        "currency_code": "BZD",
+        "currency_name": "Dollar",
+        "population": "397,628",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Yuan Renminbi", "Pound", "Birr", "Dollar"]
+    },
+    {
+        "country": "MQ",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "375,265",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Rial", "Euro", "Pa'anga", "Shilling"]
+    },
+    {
+        "country": "IS",
+        "currency_code": "ISK",
+        "currency_name": "Krona",
+        "population": "341,243",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Bolivar Soberano", "Euro", "Dollar", "Krona"]
+    },
+    {
+        "country": "VU",
+        "currency_code": "VUV",
+        "currency_name": "Vatu",
+        "population": "307,145",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Leu", "Dinar", "Peso", "Vatu"]
+    },
+    {
+        "country": "GF",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "298,682",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Manat", "Dollar", "Euro", "Rial"]
+    },
+    {
+        "country": "PF",
+        "currency_code": "XPF",
+        "currency_name": "Franc",
+        "population": "280,908",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Shilling", "Franc", "Lempira", "Krone"]
+    },
+    {
+        "country": "YT",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "272,815",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Tenge", "Dinar", "Franc", "Euro"]
+    },
+    {
+        "country": "WS",
+        "currency_code": "WST",
+        "currency_name": "Tala",
+        "population": "198,414",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "< 250 thousand",
+        "currency_choices": ["Pound", "Dollar", "Ngultrum", "Tala"]
+    },
+    {
+        "country": "LC",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "183,627",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Lira", "Naira", "Franc"]
+    },
+    {
+        "country": "GG",
+        "currency_code": "GBP",
+        "currency_name": "Pound",
+        "population": "173,863",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "< 250 thousand",
+        "currency_choices": ["Dollar", "Guilder", "Lempira", "Pound"]
+    },
+    {
+        "country": "CW",
+        "currency_code": "ANG",
+        "currency_name": "Guilder",
+        "population": "164,093",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Dinar", "Rand", "Lilangeni", "Guilder"]
+    },
+    {
+        "country": "KI",
+        "currency_code": "AUD",
+        "currency_name": "Dollar",
+        "population": "119,449",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Dollar", "Franc", "Dirham", "Loti"]
+    },
+    {
+        "country": "GD",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "112,523",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Shilling", "Franc", "Dollar", "Won"]
+    },
+    {
+        "country": "VC",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "110,940",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Rial", "Dollar", "Balboa", "Rupee"]
+    },
+    {
+        "country": "AW",
+        "currency_code": "AWG",
+        "currency_name": "Guilder",
+        "population": "106,766",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Guilder", "Rial", "Pound", "Peso"]
+    },
+    {
+        "country": "TO",
+        "currency_code": "TOP",
+        "currency_name": "Pa'anga",
+        "population": "105,695",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Kwanza", "Pa'anga", "Ringgit", "Rupee"]
+    },
+    {
+        "country": "VI",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "104,425",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Pataca", "Taka", "Kuna", "Dollar"]
+    },
+    {
+        "country": "SC",
+        "currency_code": "SCR",
+        "currency_name": "Rupee",
+        "population": "98,347",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Balboa", "Guilder", "Rupee", "Rupiah"]
+    },
+    {
+        "country": "IM",
+        "currency_code": "GBP",
+        "currency_name": "Pound",
+        "population": "85,033",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Dobra", "Dollar", "Peso", "Pound"]
+    },
+    {
+        "country": "AD",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "77,265",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Euro", "Peso", "Kwanza", "Shilling"]
+    },
+    {
+        "country": "DM",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "71,986",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Yuan Renminbi", "Som", "Dollar", "Gourde"]
+    },
+    {
+        "country": "KY",
+        "currency_code": "KYD",
+        "currency_name": "Dollar",
+        "population": "65,722",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Rufiyaa", "Rial", "Escudo"]
+    },
+    {
+        "country": "BM",
+        "currency_code": "BMD",
+        "currency_name": "Dollar",
+        "population": "62,278",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Belarusian ruble", "Bolivar Soberano", "Dollar", "Som"]
+    },
+    {
+        "country": "MP",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "57,559",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Kina", "Franc", "Belarusian ruble", "Dollar"]
+    },
+    {
+        "country": "GL",
+        "currency_code": "DKK",
+        "currency_name": "Krone",
+        "population": "56,770",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Denar", "Bolivar Soberano", "Krone", "Manat"]
+    },
+    {
+        "country": "AS",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "55,191",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "50 - 500 thousand",
+        "currency_choices": ["Ariary", "Ngultrum", "Som", "Dollar"]
+    },
+    {
+        "country": "KN",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "53,199",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "50 - 500 thousand",
+        "currency_choices": ["Dollar", "Peso", "Rupee", "Forint"]
+    },
+    {
+        "country": "FO",
+        "currency_code": "DKK",
+        "currency_name": "Krone",
+        "population": "48,863",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Krone", "Marka", "Ouguiya", "Lempira"]
+    },
+    {
+        "country": "SX",
+        "currency_code": "ANG",
+        "currency_name": "Guilder",
+        "population": "42,876",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Kina", "Som", "Guilder", "Dirham"]
+    },
+    {
+        "country": "MC",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "39,242",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Pound", "Euro", "Rial", "Kwacha"]
+    },
+    {
+        "country": "MF",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "38,666",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Euro", "Dollar", "Kwanza", "Shilling"]
+    },
+    {
+        "country": "LI",
+        "currency_code": "CHF",
+        "currency_name": "Franc",
+        "population": "38,128",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Taka", "Ruble", "Dollar", "Franc"]
+    },
+    {
+        "country": "SM",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "33,931",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Rand", "Franc", "Dollar", "Euro"]
+    },
+    {
+        "country": "GI",
+        "currency_code": "GIP",
+        "currency_name": "Pound",
+        "population": "33,691",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Leu", "Naira", "Kina", "Pound"]
+    },
+    {
+        "country": "VG",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "30,231",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Pound", "Dollar", "Tala", "Peso"]
+    },
+    {
+        "country": "BQ",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "26,223",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Rial", "Lari", "Dollar", "Pound"]
+    },
+    {
+        "country": "CK",
+        "currency_code": "NZD",
+        "currency_name": "Dollar",
+        "population": "17,564",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Nakfa", "Dirham", "Dollar", "Peso"]
+    },
+    {
+        "country": "TV",
+        "currency_code": "AUD",
+        "currency_name": "Dollar",
+        "population": "11,792",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Marka", "Dollar", "Rupee", "Shilling"]
+    },
+    {
+        "country": "WF",
+        "currency_code": "XPF",
+        "currency_name": "Franc",
+        "population": "11,239",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Peso", "Franc", "Shekel", "Dinar"]
+    },
+    {
+        "country": "NR",
+        "currency_code": "AUD",
+        "currency_name": "Dollar",
+        "population": "10,824",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dinar", "Franc", "Dollar", "Kina"]
+    },
+    {
+        "country": "BL",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "9,877",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Guarani", "Euro", "Pula", "Pound"]
+    },
+    {
+        "country": "SH",
+        "currency_code": "SHP",
+        "currency_name": "Pound",
+        "population": "6,077",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Pound", "Rand", "Dong", "Euro"]
+    },
+    {
+        "country": "PM",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "5,794",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Forint", "Manat", "Euro", "Pound"]
+    },
+    {
+        "country": "FK",
+        "currency_code": "FKP",
+        "currency_name": "Pound",
+        "population": "3,480",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Lek", "Dinar", "Pound", "Rial"]
+    },
+    {
+        "country": "NU",
+        "currency_code": "NZD",
+        "currency_name": "Dollar",
+        "population": "1,626",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Ringgit", "Dollar", "Franc", "Tugrik"]
+    },
+    {
+        "country": "TK",
+        "currency_code": "NZD",
+        "currency_name": "Dollar",
+        "population": "1,357",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dollar", "Pula", "Som", "Kina"]
+    },
+    {
+        "country": "VA",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "801",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dollar", "Dirham", "Cedi", "Euro"]
+    },
+    {
+        "country": "PH",
+        "currency_code": "PHP",
+        "currency_name": "Peso",
+        "population": "109,581,078",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Yen", "Peso", "Sol", "Euro"]
+    },
+    {
+        "country": "EG",
+        "currency_code": "EGP",
+        "currency_name": "Pound",
+        "population": "102,334,404",
+        "population_choices": ["5 million - 25 million", "26 million - 100 million", "100 million - 200 million", "200+ million"],
+        "population_answer": "100 million - 200 million",
+        "currency_choices": ["Pound", "Peso", "Pa'anga", "Euro"]
+    },
+    {
+        "country": "UA",
+        "currency_code": "UAH",
+        "currency_name": "Hryvnia",
+        "population": "43,733,762",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Pound", "Peso", "Krona", "Hryvnia"]
+    },
+    {
+        "country": "AF",
+        "currency_code": "AFN",
+        "currency_name": "Afghani",
+        "population": "38,928,346",
+        "population_choices": ["< 10 million", "10 - 20 million", "30 - 60 million", "60 - 80 million"],
+        "population_answer": "30 - 60 million",
+        "currency_choices": ["Franc", "Won", "Pound", "Afghani"]
+    },
+    {
+        "country": "BJ",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "12,123,200",
+        "population_choices": ["2 - 10 million", "10 - 20 million", "20 - 30 million", "30+ million"],
+        "population_answer": "10 - 20 million",
+        "currency_choices": ["Dollar", "Kuna", "Peso", "Franc"]
+    },
+    {
+        "country": "GR",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "10,423,054",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Dollar", "Peso", "Ngultrum", "Euro"]
+    },
+    {
+        "country": "JO",
+        "currency_code": "JOD",
+        "currency_name": "Dinar",
+        "population": "10,203,134",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Ruble", "Lira", "Dinar", "Euro"]
+    },
+    {
+        "country": "HN",
+        "currency_code": "HNL",
+        "currency_name": "Lempira",
+        "population": "9,904,607",
+        "population_choices": ["< 2 million", "2 - 5 million", "5 - 8 million", "8 - 12 million"],
+        "population_answer": "8 - 12 million",
+        "currency_choices": ["Lempira", "Rupee", "Dollar", "Euro"]
+    },
+    {
+        "country": "TG",
+        "currency_code": "XOF",
+        "currency_name": "Franc",
+        "population": "8,278,724",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Franc", "Colon", "Dirham", "Pound"]
+    },
+    {
+        "country": "LY",
+        "currency_code": "LYD",
+        "currency_name": "Dinar",
+        "population": "6,871,292",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Dollar", "Rufiyaa", "Pound", "Dinar"]
+    },
+    {
+        "country": "SK",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "5,459,642",
+        "population_choices": ["< 3 million", "3 - 5 million", "5 - 10 million", "10 - 12 million"],
+        "population_answer": "5 - 10 million",
+        "currency_choices": ["Euro", "Dollar", "Pound", "Forint"]
+    },
+    {
+        "country": "OM",
+        "currency_code": "OMR",
+        "currency_name": "Rial",
+        "population": "5,106,626",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Dollar", "Dollar", "Pound", "Rial"]
+    },
+    {
+        "country": "LR",
+        "currency_code": "LRD",
+        "currency_name": "Dollar",
+        "population": "5,057,681",
+        "population_choices": ["1 - 3 million", "3 - 6 million", "6 - 10 million", "10 - 20 million"],
+        "population_answer": "3 - 6 million",
+        "currency_choices": ["Rufiyaa", "Dollar", "Pound", "Dinar"]
+    },
+    {
+        "country": "JM",
+        "currency_code": "JMD",
+        "currency_name": "Dollar",
+        "population": "2,961,167",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Kwacha", "Won", "Dollar", "Pound"]
+    },
+    {
+        "country": "NA",
+        "currency_code": "NAD",
+        "currency_name": "Dollar",
+        "population": "2,540,905",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Dollar", "Pound", "Dinar", "Colon"]
+    },
+    {
+        "country": "BW",
+        "currency_code": "BWP",
+        "currency_name": "Pula",
+        "population": "2,351,627",
+        "population_choices": ["< 500 thousand", "500k - 1 million", "1 - 2 million", "2 - 3 million"],
+        "population_answer": "2 - 3 million",
+        "currency_choices": ["Dollar", "Dinar", "Pound", "Pula"]
+    },
+    {
+        "country": "TT",
+        "currency_code": "TTD",
+        "currency_name": "Dollar",
+        "population": "1,399,488",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Krone", "Dollar", "Peso", "Pound"]
+    },
+    {
+        "country": "CY",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "population": "1,207,359",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "1 - 2 million",
+        "currency_choices": ["Euro", "Dollar", "Pound", "Cedi"]
+    },
+    {
+        "country": "FJ",
+        "currency_code": "FJD",
+        "currency_name": "Dollar",
+        "population": "896,445",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Euro", "Lev", "Tala"]
+    },
+    {
+        "country": "SR",
+        "currency_code": "SRD",
+        "currency_name": "Dollar",
+        "population": "586,632",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Peso", "Dollar", "Lari", "Euro"]
+    },
+    {
+        "country": "CV",
+        "currency_code": "CVE",
+        "currency_name": "Escudo",
+        "population": "555,987",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Euro", "Escudo", "Peso"]
+    },
+    {
+        "country": "FM",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "548,914",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Dollar", "Won", "Euro", "Dirham"]
+    },
+    {
+        "country": "BN",
+        "currency_code": "BND",
+        "currency_name": "Dollar",
+        "population": "437,479",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Leu", "Dollar", "Peso", "Euro"]
+    },
+    {
+        "country": "BS",
+        "currency_code": "BSD",
+        "currency_name": "Dollar",
+        "population": "393,244",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Shilling", "Dollar", "Euro", "Gourde"]
+    },
+    {
+        "country": "BB",
+        "currency_code": "BBD",
+        "currency_name": "Dollar",
+        "population": "287,375",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Dollar", "Won", "Euro", "Dinar"]
+    },
+    {
+        "country": "NC",
+        "currency_code": "XPF",
+        "currency_name": "Franc",
+        "population": "285,498",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "250k - 1 million",
+        "currency_choices": ["Dollar", "Pound", "Franc", "Euro"]
+    },
+    {
+        "country": "ST",
+        "currency_code": "STN",
+        "currency_name": "Dobra",
+        "population": "219,159",
+        "population_choices": ["< 250 thousand", "250k - 1 million", "1 - 2 million", "2 - 3.5 million"],
+        "population_answer": "< 250 thousand",
+        "currency_choices": ["Dollar", "Euro", "Dobra", "Ouguiya"]
+    },
+    {
+        "country": "GU",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "168,775",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "100 - 500 thousand",
+        "currency_choices": ["Forint", "Boliviano", "Dollar", "Pound"]
+    },
+    {
+        "country": "AG",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "97,929",
+        "population_choices": ["< 100 thousand", "100 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 100 thousand",
+        "currency_choices": ["Zloty", "Pound", "Dollar", "Euro"]
+    },
+    {
+        "country": "MH",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "59,190",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "50 - 500 thousand",
+        "currency_choices": ["Dollar", "Peso", "Euro", "Riels"]
+    },
+    {
+        "country": "TC",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "38,717",
+        "population_choices": ["< 1 million", "1 - 2 million", "2 - 3 million", "3 - 5 million"],
+        "population_answer": "< 1 million",
+        "currency_choices": ["Pound", "Dollar", "Ruble", "Euro"]
+    },
+    {
+        "country": "PW",
+        "currency_code": "USD",
+        "currency_name": "Dollar",
+        "population": "18,094",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dollar", "Dollar", "Birr", "Boliviano"]
+    },
+    {
+        "country": "AI",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "15,003",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Somoni", "Dollar", "Euro", "Dinar"]
+    },
+    {
+        "country": "MS",
+        "currency_code": "XCD",
+        "currency_name": "Dollar",
+        "population": "4,992",
+        "population_choices": ["< 50 thousand", "50 - 500 thousand", "500k - 1 million", "1+ million"],
+        "population_answer": "< 50 thousand",
+        "currency_choices": ["Dollar", "Euro", "Pataca", "Peso"]
+    }
+]
