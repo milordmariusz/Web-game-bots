@@ -3,3 +3,4 @@
 /flagle_bot/__pycache__/
 /flagle_bot/country_code_scrapper.py
 /flagle_bot/country_pairs_to_json.py
+/nerdle_bot/__pycache__/
