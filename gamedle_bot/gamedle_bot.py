@@ -91,6 +91,13 @@ def play_weekly():
     if is_cookie_popup_active(driver):
         accept_gamedle_cookies(driver)
 
+    try:
+        WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.XPATH, f'//a[normalize-space()="YOU WON"]')))
+    except:
+        print("\nWeekly quiz has already been completed.\n")
+        time.sleep(1)
+        return
+
     games_json = driver.execute_script(f"return window.localStorage.getItem('gamelist')")
     games_data = json.loads(games_json)
 
