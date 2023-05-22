@@ -106,13 +106,13 @@ def play_weekly():
     
 def is_cookie_popup_active(driver):
     try:
-        WebDriverWait(driver, 3).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_794394")))
+        WebDriverWait(driver, 3).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_809515")))
     except TimeoutException:
         return False
     return True
 
 def accept_gamedle_cookies(driver):
-        cookies_iframe = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_794394")))
+        cookies_iframe = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_809515")))
         driver.switch_to.frame(cookies_iframe)
         accept_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//button[normalize-space()="Accept"]')))
         accept_button.click()
@@ -132,7 +132,13 @@ def play_daily_modes(game_mode_url, local_storage_name):
     if is_cookie_popup_active(driver):
         accept_gamedle_cookies(driver)
 
-    input_field = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.NAME, "search")))
+    try:
+        input_field = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.NAME, "search")))
+    except:
+        print("\nToday's quiz has already been completed.\n")
+        time.sleep(1)
+        return
+    
     WrittenBoardAC = driver.execute_script(f"return window.localStorage.getItem('{local_storage_name}')")
 
     unlimitedBoardAC_Data = json.loads(WrittenBoardAC)
