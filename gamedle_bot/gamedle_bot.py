@@ -35,26 +35,29 @@ def submit_game_guess(driver, game_title, input_field):
 
 
 def press_next_button(driver):
-    next_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "next")))
-    next_button.click()
+    try:
+        next_button = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.ID, "next")))
+        next_button.click()
+    except:
+        pass
 
 
-def play_unlimited(num_games):
-    driver = get_driver()
-    driver.get("https://www.gamedle.wtf/unlimited")
+# def play_unlimited(num_games):
+#     driver = get_driver()
+#     driver.get("https://www.gamedle.wtf/unlimited")
 
-    with open('games.json', encoding="utf8") as f:
-        games_data = json.load(f)
+#     if is_cookie_popup_active(driver):
+#         accept_gamedle_cookies(driver)
 
-    if is_cookie_popup_active(driver):
-        accept_gamedle_cookies(driver)
+#     games_json = driver.execute_script(f"return window.localStorage.getItem('gamelist')")
+#     games_data = json.loads(games_json)
 
-    local_storage = "unlimitedBoardAC"
+#     local_storage = "unlimitedBoardAC"
 
-    guess_game(num_games, driver, games_data, local_storage)
+#     guess_game(num_games, driver, games_data, local_storage)
 
-    time.sleep(1)
-    driver.quit()
+#     time.sleep(1)
+#     driver.quit()
 
     
 def guess_game(num_games, driver, games_data, local_storage):
@@ -85,16 +88,17 @@ def play_weekly():
     driver = get_driver()
     driver.get("https://www.gamedle.wtf/unlimitedweekly")
 
-    with open('games.json', encoding="utf8") as f:
-        games_data = json.load(f)
-
     if is_cookie_popup_active(driver):
         accept_gamedle_cookies(driver)
+
+    games_json = driver.execute_script(f"return window.localStorage.getItem('gamelist')")
+    games_data = json.loads(games_json)
 
     number_of_games_to_guess =  int(WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, "max_streaks"))).text.split('/')[1])
 
     local_storage = "unlimitedWeeklyBoardAC"
 
+    press_next_button(driver)
     guess_game(number_of_games_to_guess, driver, games_data, local_storage)
 
     time.sleep(4)
@@ -146,21 +150,21 @@ def play_daily_modes(game_mode_url, local_storage_name):
 def main():
 
     print("Select in which game mode you want me to guess games:\n")
-    game_modes = ["Unlimited", "Weekly", "Guess", "Artwork", "Classic"]
+    game_modes = ["Weekly", "Guess", "Artwork", "Classic"]
     for index, mode in enumerate(game_modes, 1):
         print(f"[{index}] {mode}")
     user_choice = input("\nDecision: ")
 
-    if user_choice == "1":    
-        num_games = int(input("Enter the number of games that should be guessed: "))
-        play_unlimited(num_games)
-    elif user_choice == "2":
+    # if user_choice == "1":    
+    #     num_games = int(input("Enter the number of games that should be guessed: "))
+    #     play_unlimited(num_games)
+    if user_choice == "1":
         play_weekly()
-    elif user_choice == "3":
+    elif user_choice == "2":
         play_daily_modes("https://www.gamedle.wtf/guess", "boardWrittenAC")
-    elif user_choice == "4":
+    elif user_choice == "3":
         play_daily_modes("https://www.gamedle.wtf/artwork", "boardArtworkAC")
-    elif user_choice == "5":
+    elif user_choice == "4":
         play_daily_modes("https://www.gamedle.wtf/classic", "boardAC")
     else:
         print("Do następnego.")
