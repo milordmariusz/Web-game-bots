@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 
 def accept_nerdle_cookies(driver):
     try:
-        cookies_iframe = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_633250")))
+        cookies_iframe = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_809912")))
         driver.switch_to.frame(cookies_iframe)
         accept_cookies_button = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.XPATH, '//button[@aria-label="Accept"]')))
         accept_cookies_button.click()

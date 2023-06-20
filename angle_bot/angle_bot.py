@@ -21,17 +21,14 @@ def get_driver():
 
 def is_cookie_popup_active(driver):
     try:
-        WebDriverWait(driver, 3).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_794238")))
+        WebDriverWait(driver, 3).until(EC.element_to_be_clickable((By.CLASS_NAME, "sn-inner")))
     except TimeoutException:
         return False
     return True
 
 def accept_angle_cookies(driver):
-    cookies_iframe = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "sp_message_iframe_794238")))
-    driver.switch_to.frame(cookies_iframe)
-    accept_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//button[normalize-space()="Accept"]')))
+    accept_button = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, 'accept-choices')))
     accept_button.click()
-    driver.switch_to.default_content()
     time.sleep(1)
 
 def main():
