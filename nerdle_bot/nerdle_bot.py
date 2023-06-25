@@ -20,7 +20,9 @@ def close_nerdle_instruction(driver):
 
 def provide_answer(driver, answer):
     actions = ActionChains(driver)
-    actions.send_keys(answer)
+    answer_split = answer.split()
+    for x in answer_split:
+        actions.send_keys(x)
     actions.perform()
     enter_button = WebDriverWait(driver, 2).until(EC.element_to_be_clickable((By.XPATH, '//button[@aria-label="ENTER "]')))
     enter_button.click()
